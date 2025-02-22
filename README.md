@@ -1,1 +1,0 @@
-This project provides a simple way to hide and extract secret messages from images using steganography. It ensures data confidentiality through password-protected encryption and decryption using Python and OpenCV.
